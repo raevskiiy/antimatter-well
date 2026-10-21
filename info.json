@@ -1,0 +1,9 @@
+{
+  "name": "antimatter-well",
+  "version": "0.2.5",
+  "title": "Antimatter Well",
+  "author": "you",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1.0"],
+  "description": "All vanilla ore, oil and water are removed from the map. Everything comes from antimatter wells: a wellhead (starts on wood) pumps liquid antimatter, converters turn it into ores, crude oil and water. Upgrade the wellhead through research."
+}

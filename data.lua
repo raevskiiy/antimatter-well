@@ -1,0 +1,8 @@
+require("prototypes.fluid")
+require("prototypes.resource")
+require("prototypes.wellhead")
+require("prototypes.converter")
+require("prototypes.caster")
+require("prototypes.separator")
+require("prototypes.recipe")
+require("prototypes.technology")
